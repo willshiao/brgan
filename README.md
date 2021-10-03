@@ -15,8 +15,8 @@ You should also download the datasets from the GraphRNN repo [here](https://gith
 
 To train the model, do:
 ```bash
-$ cd src
-$ python main.py
+cd src
+python main.py
 ```
 
 Parameters can be set in the form `-arg_name=value`, and metrics are automatically logged to [Weights and Biases](https://wandb.ai/).
@@ -25,14 +25,14 @@ Parameters can be set in the form `-arg_name=value`, and metrics are automatical
 ## Citation
 ```
 @InProceedings{GeneratingGraphsBoundedRank,
-  author={Shiao, William and Papalexakis, Evangelos},
-  booktitle={2021 IEEE 8th International Conference on Data Science and Advanced Analytics (DSAA)}, 
-  title={Adversarially Generating Graphs of Bounded Rank}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={},
-  doi={}}
+author={Shiao, William and Papalexakis, Evangelos},
+booktitle={2021 IEEE 8th International Conference on Data Science and Advanced Analytics (DSAA)}, 
+title={Adversarially Generating Graphs of Bounded Rank}, 
+year={2021},
+volume={},
+number={},
+pages={},
+doi={}}
 ```
 
 ## Acknowledgements
