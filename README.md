@@ -6,7 +6,7 @@ Paper link: https://wls.ai/DSAA21_BRGAN
 
 ## Preperation
 
-Before runnning the module, make sure you install the required pip modules in `requirements.txt` by running `pip install -r requirements.txt`.
+Before running the module, make sure you install the required pip modules in `requirements.txt` by running `pip install -r requirements.txt`.
 
 You should also download the datasets from the GraphRNN repo [here](https://github.com/JiaxuanYou/graph-generation/tree/master/dataset).
 
