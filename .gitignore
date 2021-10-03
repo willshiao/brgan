@@ -131,3 +131,4 @@ dmypy.json
 src/dataset/*
 !src/dataset/README.md
 wandb
+src/results
